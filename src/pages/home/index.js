@@ -1,4 +1,7 @@
 "use strict";
+
+console.log("yea yea")
+
 //Cookies Message
 const message = document.createElement('section');
 const header = document.querySelector('.header');
